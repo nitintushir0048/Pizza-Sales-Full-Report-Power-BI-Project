@@ -117,6 +117,9 @@ Helps identify:
 │
 └── README.md
 ```
+## 📌 Project Screenshots
+<img width="619" height="341" alt="image" src="https://github.com/user-attachments/assets/51d8f51b-86b1-42b0-8298-c035d3e83bc5" />
+<img width="621" height="340" alt="image" src="https://github.com/user-attachments/assets/c93eac46-8d5d-47fa-8084-66e5675cded8" />
 
 ---
 
